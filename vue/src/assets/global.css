@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#backImg{
+    background-color: #470387;
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: 100% 100%;
+
+}
